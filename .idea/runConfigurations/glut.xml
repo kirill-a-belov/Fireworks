@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="glut" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="glut" TARGET_NAME="glut" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="glut" RUN_TARGET_NAME="glut">
+    <envs />
+    <method />
+  </configuration>
+</component>
